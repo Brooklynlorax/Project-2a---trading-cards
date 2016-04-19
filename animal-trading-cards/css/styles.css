@@ -1,5 +1,5 @@
 h3 {
-	font-size: 32px;
+	font-size: 31px;
 	vertical-align: text-top;
 	margin-top: 5px;
 	margin-bottom: 15px;
@@ -12,12 +12,12 @@ ul {
 }
 
 img {
-	width: 100%;
+	width: 300px;
 	margin-bottom: 10px;
 }
 
 .wrapper {
-	width: 408px;
+	width: 300px;
 	padding: 10px;
 	margin-top: 0;
 	font-family: 'Source Sans Pro', sans-serif;
